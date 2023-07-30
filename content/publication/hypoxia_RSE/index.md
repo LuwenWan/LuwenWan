@@ -38,7 +38,7 @@ abstract: Water quality has suffered as humans have increased nutrient inputs ac
 ## Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: nutrient legacy, time lags, groundwater transport, nitrogen management, land use practice
+tags: Coastal ecosystems, Hypoxia, Eutrophication, Remote sensing, Google Earth Engine (GEE), Functional data analysis
 
 # Display this page in the Featured widget?
 featured: true
