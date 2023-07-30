@@ -1,5 +1,5 @@
 ---
-title: "Satellite prediction of coastal hypoxia in the northern Gulf of Mexico"
+title: "The land use legacy effect: looking back to see a path forward to improve management"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
