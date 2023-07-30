@@ -84,4 +84,4 @@ Hi! I am Luwen, a Postdoctoral Fellow with the [Stanford Institute for Human-Cen
 
 I received my Ph.D. in Earth and Environmental Science from Michigan State University, where I worked on nutrient transport modeling across the Great Lakes Basin and agricultural tile drainage mapping across the US Midwest region. 
 
-If you want to collaborate on research or project, please feel free to reach out! 
+If you want to collaborate on research or project, please feel free to reach out! Email: wanluwen AT msu.edu
