@@ -24,35 +24,19 @@ date_format: Jan 2006
 experience:
   - title: Postdoctoral scholar
     company: Stanford University
-    company_url: 'https://naturalcapitalproject.stanford.edu/about/people'
+    company_url: 'https://hai.stanford.edu/fellows'
     company_logo: SU_New_BlockStree_2color
     location: Stanford, California
-    date_start: '2022-09-01'
-    date_end: ''
-
-  - title: Young Scientist
-    company: International Institute for Applied Systems Analysis (IIASA)
-    company_url: 'https://iiasa.ac.at/'
-    company_logo: IIASA_logo
-    location: Laxenburg, Austria
-    date_start: '2021-06-01'
-    date_end: '2021-09-30'
-    
-  - title: Fellow
-    company: Future Earth Coasts
-    company_url: 'https://www.futureearthcoasts.org/'
-    company_logo: Future_Earth_Coast
-    location: ''
-    date_start: '2021-07-01'
+    date_start: '2023-09-01'
     date_end: ''
     
   - title: Research Assistant
     company: Michigan State University
-    company_url: 'https://www.canr.msu.edu/people/yingjie-li'
+    company_url: 'http://hydrogeology.msu.edu/people/lab-members'
     company_logo: MSU_icon
     location: East Lansing, Michigan
-    date_start: '2017-08-01'
-    date_end: '2022-05-30'
+    date_start: '2018-02-14'
+    date_end: '2023-08-31'
     description: ''
 
 design:
