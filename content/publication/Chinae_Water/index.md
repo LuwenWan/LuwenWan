@@ -1,26 +1,53 @@
 ---
-title: "Decoupling of SDGs followed by re-coupling as sustainable development progresses"
+title: "Making China’s water data accessible, usable and shareable"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Xutong Wu
-- Bojie Fu
-- Shuai Wang
-- Shuang Song
+- Jingyu Lin
+- Brett A. Bryan 
+- Xudong Zhou
+- Peirong Lin 
+- Hong Xuan Do
+- Lei Gao
+- Xinchen Gu
+- Zhifeng Liu
 - admin
-- Zhenci Xu
-- Yongping Wei
-- Jianguo Liu
+- Shanlin Tong
+- Jiacong Huang
+- Qian Wang
+- Yuan Zhang
+- Hongkai Gao
+- Jiabo Yin
+- Zilong Chen
+- Weili Duan
+- Zheyu Xie
+- Tong Cui
+- Junzhi Liu 
+- Mingqian Li
+- Xiaodong Li
+- Zhenwu Xu
+- Fei Guo
+- Lele Shu
+- Bin Li
+- Jingwen Zhang
+- Pingping Zhang
+- Bo Fan
+- Yanwen Wang
+- Yifan Zhang
+- Jinliang Huang
+- Xin Li
+- Yanpeng Cai 
+- Zhifeng Yang
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-03-24T00:00:00Z"
-doi: "https://doi.org/10.1038/s41893-022-00868-x"
+date: "2023-04-06T00:00:00Z"
+doi: "https://doi.org/10.1038/s44221-023-00039-y"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-24T00:00:00Z"
@@ -52,7 +79,7 @@ featured: true
 # - name: Online Appendix
 #   url: pdf/supplemental_information.pdf
 
-url_pdf: 'https://doi.org/10.1038/s41893-022-00868-x'
+url_pdf: 'https://doi.org/10.1038/s44221-023-00039-y'
 url_code: ''
 url_dataset: ''
 url_poster: ''
