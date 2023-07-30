@@ -1,16 +1,16 @@
 ---
-title: International Spillovers on Achieving National SDGs
-event: International Cooperation for Global Challenges - 50 Years of Building Research Bridges at IIASA
-event_url: https://iiasa.ac.at/events/may-2022/us-and-iiasa-workshop-on-50-years-of-building-research-bridges
-location: Boston University Pardee School of Global Studies
+title: Agricultural Tile Drainage: Mapping a Key Nutrient Transport Pathway
+event: Frontiers in Hydrology
+event_url: https://agu.confex.com/agu/hydrology22/meetingapp.cgi
+location: San Juan, Puerto Rico
 address:
   street: 121 Bay State Rd
   city: Boston
   region: MA
   postcode: '02215'
   country: United States
-summary: The study quantified the often-ignored transnational impacts on achieving global sustainability.
-abstract: 'In an increasingly interconnected world, each country’s ability to achieve the United Nations Sustainable Development Goals (SDGs) can be affected by external effects from other countries. For example, importing beef and soybeans to enhance domestic food security can lead to deforestation in exporting countries. Yet, little research has comprehensively evaluated these transnational effects in tracking countries’ SDG progress. Ignoring these transnational effects may result in one country achieving the SDGs at the cost of others or missing positive synergies. To evaluate such effects, we first quantified the international flows of resources and embedded socio-environmental footprints in trade, and used the amount of flows relative to country’s resources and environment carrying capacity to quantify the transnational effects on each of the 17 SDGs for 189 countries.'
+summary: Developing an agricultural tile drainage map across the US Midwest at 30-m resolution using optical and radar satellite imagery along with soil- and climate-related variables within the Google Earth Engine (GEE) cloud-computing platform.
+abstract: 'Agricultural tile drainage has been used to remove excess water and facilitate agricultural crop production. However, nutrient delivery with drainage water from agricultural fields contributes to downstream algal blooms and hypoxic zones. Here, we simulate the nutrient loading, sources, and pathways across the US Great Lakes basin using the Spatially Explicit Nutrient Source Estimate and Flux (SENSEflux) model. An estimated tile drainage layer with GIS-based mapping has been used as one of the SENSEflux inputs. The results from SENSEflux have shown that tile fields are a major pathway of total nitrogen (TN) and total phosphorus (TP) transport, transporting 39% of TN and 29% of TP to the Great Lakes. The contribution is even higher during snowmelt season, and in some regions with a high density of tile drains, such as the Lake Erie basin. We also concluded that the lack of fine-resolution, spatially-explicit tile drainage maps make it challenging to model these agricultural landscapes. Thus, we have been developing an agricultural tile drainage map across the US Midwest at 30-m resolution using optical and radar satellite imagery along with soil- and climate-related variables within the Google Earth Engine (GEE) cloud-computing platform. A new regional training dataset includes point data that are manually identified from multi-resolution aerial imagery and compiled from other literature and agency sources that have been assembled to train a random forest classification. Aridity, subsurface soil moisture, normalized difference water index, and VV(vertical transmit, vertical receive) polarization from Sentinel-1 Synthetic Aperture Radar have shown the higher importance in the classification and improved the over accuracy (~90%). This provides insights into decision-making around tile drainage installation. We also compare the outputs to other currently available products to quantify the improvement in classification accuracy. The tile drainage maps are valuable inputs for characterizing the coupling of hydrologic and chemical/biogeochemical process modeling, informing sustainable water management practices, and providing environmental managers with needed information to reduce nutrient loads.'
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2021-07-26T09:00:00Z'
