@@ -41,9 +41,9 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Online Appendix
-#   url: pdf/supplemental_information.pdf
+#   url: ''
 
-url_pdf: 'https://doi.org/10.1088/1748-9326/abe14c'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
