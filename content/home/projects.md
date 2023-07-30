@@ -27,12 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: SDGs
-    tag: SDGs
-  - name: Ecosystem Services
-    tag: ES
-  - name: Telecoupling
-    tag: Telecoupling
+  - name: Beavers
+    tag: Beavers
+  - name: Nutrient Pollution 
+    tag: Nutrient
+  - name: Remote Sensing
+    tag: RS
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
