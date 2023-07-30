@@ -38,7 +38,7 @@ abstract: "Water quality has suffered as humans have increased nutrient inputs a
 ## Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: Coastal ecosystems, Hypoxia, Eutrophication, Remote sensing, Google Earth Engine (GEE), Functional data analysis
+tags: nutrient legacy, time lags, groundwater transport, nitrogen management, land use practice
 
 # Display this page in the Featured widget?
 featured: true
@@ -70,7 +70,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- dead_zone_interlinked
+- ""
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
