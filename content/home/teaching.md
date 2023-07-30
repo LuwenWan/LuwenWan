@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Teaching assistant & Guest Lecturer
-    company: Metacoupling Science - Interdisciplinary Frontiers and Global Applications
-    company_url: 'https://github.com/MetaCHANS/Metacoupling-Science-Course'
+  - title: Teaching assistant 
+    company: Geology of the Human Environment 
+    company_url: ''
     company_logo: MSU_icon
     location: East Lansing, Michigan
-    date_start: '2021-01-01'
-    date_end: '2021-05-30'
+    date_start: '2022-01-01'
+    date_end: '2022-05-15'
     description: ''
 
 design:
