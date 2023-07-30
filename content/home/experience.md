@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoctoral scholar
+  - title: Postdoctoral Fellow
     company: Stanford University
     company_url: 'https://hai.stanford.edu/fellows'
     company_logo: SU_New_BlockStree_2color
