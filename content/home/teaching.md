@@ -31,15 +31,6 @@ experience:
     date_end: '2022-05-15'
     description: ''
 
-  - title: Graduate assistant 
-	company: Hydrogeology 
-	company_url: ''
-	company_logo: MSU_icon
-	location: East Lansing, Michigan
-	date_start: '2021-08-15'
-	date_end: '2021-12-20'
-	description: ''
-
 design:
   columns: '2'
 ---
