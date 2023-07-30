@@ -15,7 +15,7 @@ authors:
 # Author notes (optional)
 
 date: "2022-03-25T00:00:00Z"
-doi: "https://iopscience.iop.org/article/10.1088/1748-9326/abe14c"
+doi: "https://doi.org/10.1088/1748-9326/abe14c"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-25T00:00:00Z"
@@ -47,7 +47,7 @@ featured: true
 # - name: Online Appendix
 #   url: pdf/supplemental_information.pdf
 
-url_pdf: 'https://iopscience.iop.org/article/10.1088/1748-9326/abe14c'
+url_pdf: 'https://doi.org/10.1088/1748-9326/abe14c'
 url_code: ''
 url_dataset: ''
 url_poster: ''

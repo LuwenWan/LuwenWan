@@ -60,8 +60,8 @@ publishDate: "2022-03-24T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nature Sustainability*
-publication_short: In *Nat. Sustain.*
+publication: In *Nature Water*
+publication_short: In *Nat. Wat.*
 
 
 abstract: Understanding the complex interactions among the Sustainable Development Goals (SDGs) is key to achieving all of the SDGs and "leaving no one behind".
