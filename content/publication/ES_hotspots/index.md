@@ -1,21 +1,21 @@
 ---
-title: "Mapping the hotspots and coldspots of ecosystem services in conservation priority setting"
+title: "The land use legacy effect: looking back to see a path forward to improve management"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-authors: [admin, 'Liwei Zhang', 'Junping Yan', 'Pengtao Wang', 'Ningke Hu', 'Wei Cheng', 'Bojie Fu']
+authors: ['Sherry L Martin', 'Quercus F Hamlin', 'Anthony D Kendall', admin, 'David W Hyndman']
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2017-06-01T00:00:00Z"
-doi: "https://doi.org/10.1007/s11442-017-1400-x"
+date: "2022-03-25T00:00:00Z"
+doi: "https://doi.org/10.1088/1748-9326/abe14c"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-06-01T00:00:00Z"
+publishDate: "2023-07-29T00:00:00Z"
 
 # Publication type.
 # Legend: 
@@ -25,13 +25,13 @@ publishDate: "2017-06-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Geographical Sciences*
+publication: In *Environmental Research Letters*
 
 
-abstract: Spatial-explicitly mapping of the hotspots and coldspots is a vital link in the priority setting for ecosystem services (ES) conservation. However, little research has identified and tested the compactness and efficiency of their ES hotspots and coldspots, which may weaken the effectiveness of ecological conservation. In this study, based on the RUSLE model and Getis-Ord Gi* statistics, we quantified the variation of annual soil conservation services (SC) and identified the statistically significant hotspots and coldspots in Shaanxi Province of China from 2000 to 2013. The results indicate that, 1) areas with high SC presented a significantly increasing trend as well, while areas with low SC only changed slightly; 2) SC hotspots and coldspots showed an obvious spatial differentiation—the hotspots were mainly spatially aggregated in southern Shaanxi, while the coldspots were mainly distributed in the Guanzhong Basin and Sand-windy Plateau; and 3) the identified hotspots had the highest capacity of providing SC, with 29.6% of the total area providing 59.7% of the total service. In contrast, the coldspots occupied 46.3% of the total area, but only provided 17.2% of the total SC. In addition to conserving single ES, the Getis-Ord Gi* statistics method can also help identify multi-functional priority areas for conserving multiple ES and biodiversity..
+abstract: Water quality has suffered as humans have increased nutrient inputs across the landscape. In many cases, management actions to reduce nutrient inputs have not been met with concomitant ecosystem responses. These missed expectations are partly due to the continued slow delivery of nutrient-enriched groundwater pre-dating input reductions resulting from management actions. Land use legacies as expressed through this time lag are important to quantify in order to adjust management expectations. We present a novel coupling of nitrogen source maps with groundwater transport times to create a high-resolution (120 m) fully distributed estimate of the timing and magnitude of groundwater nitrogen deliveries to surface water across Michigan's Lower Peninsula. This new view of the landscape has been designed around common management timelines for: elected officials looking to make a difference for re-election (<5 years), career managers hoping to see the fruits of their labor (5–30 years), and advocacy groups whose work can span generations (>30 years). One striking result is that after 100 years, in our study area, approximately 50% of the nitrogen that enters the groundwater system remains in transit. This means that actions taken now may not show the expected lower nitrogen loads to receiving ecosystems for decades to centuries. We show that differences in groundwater travel times create a heterogeneous patchwork over which managers can prioritize actions to best match their targeted response times. Across the highest nitrogen inputs in our study region, less than 10% had short enough groundwater legacies to match the management timeline of most government and agency work. Agricultural practices (manure and chemical fertilizer) are the main nitrogen contributors across the top three management classes; however, human contributions through septic tank effluent and lawn fertilizers contribute 5%–8% of nitrogen.
 
 ## Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: ''
 
 tags: ES
 
@@ -43,7 +43,7 @@ featured: true
 # - name: Online Appendix
 #   url: pdf/supplemental_information.pdf
 
-url_pdf: 'https://link.springer.com/content/pdf/10.1007/s11442-017-1400-x.pdf'
+url_pdf: 'https://doi.org/10.1088/1748-9326/abe14c'
 url_code: ''
 url_dataset: ''
 url_poster: ''
