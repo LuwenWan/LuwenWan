@@ -1,0 +1,11 @@
+# IDEs
+.idea/
+desktop.ini
+
+
+# Hugo
+/resources/
+public/
+jsconfig.json
+node_modules/
+.Rproj.user
