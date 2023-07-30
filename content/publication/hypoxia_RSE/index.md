@@ -5,17 +5,18 @@ title: "The land use legacy effect: looking back to see a path forward to improv
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Sherry L Martin
+- Quercus F Hamlin
+- Anthony D Kendall
 - admin
-- Samuel V.J. Robinson
-- Lan H. Nguyen
-- Jianguo Liu
+- David W Hyndman
 
 
 # Author notes (optional)
 
 
 date: "2022-11-16T00:00:00Z"
-doi: "https://doi.org/10.1016/j.rse.2022.113346"
+doi: "https://doi.org/10.1088/1748-9326/abe14c"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-11-16T00:00:00Z"
