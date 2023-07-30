@@ -1,5 +1,5 @@
 ---
-title: "The land use legacy effect: looking back to see a path forward to improve management"
+title: "Global impacts of future urban expansion on terrestrial vertebrate diversity"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -23,7 +23,7 @@ authors:
 
 
 date: "2022-03-25T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1038/s41467-022-29324-2"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-25T00:00:00Z"
@@ -39,11 +39,11 @@ publication_types: ["2"]
 publication: In *Nature Communications*
 
 
-abstract: Water quality has suffered as humans have increased nutrient inputs across the landscape. In many cases, management actions to reduce nutrient inputs have not been met with concomitant ecosystem responses. These missed expectations are partly due to the continued slow delivery of nutrient-enriched groundwater pre-dating input reductions resulting from management actions. Land use legacies as expressed through this time lag are important to quantify in order to adjust management expectations. We present a novel coupling of nitrogen source maps with groundwater transport times to create a high-resolution (120 m) fully distributed estimate of the timing and magnitude of groundwater nitrogen deliveries to surface water across Michigan's Lower Peninsula. This new view of the landscape has been designed around common management timelines for: elected officials looking to make a difference for re-election (<5 years), career managers hoping to see the fruits of their labor (5–30 years), and advocacy groups whose work can span generations (>30 years). One striking result is that after 100 years, in our study area, approximately 50% of the nitrogen that enters the groundwater system remains in transit. This means that actions taken now may not show the expected lower nitrogen loads to receiving ecosystems for decades to centuries. We show that differences in groundwater travel times create a heterogeneous patchwork over which managers can prioritize actions to best match their targeted response times. Across the highest nitrogen inputs in our study region, less than 10% had short enough groundwater legacies to match the management timeline of most government and agency work. Agricultural practices (manure and chemical fertilizer) are the main nitrogen contributors across the top three management classes; however, human contributions through septic tank effluent and lawn fertilizers contribute 5%–8% of nitrogen.
+abstract: Rapid urban expansion has profound impacts on global biodiversity through habitat conversion, degradation, fragmentation, and species extinction. However, how future urban expansion will affect global biodiversity needs to be better understood. We contribute to filling this knowledge gap by combining spatially explicit projections of urban expansion under shared socioeconomic pathways (SSPs) with datasets on habitat and terrestrial biodiversity (amphibians, mammals, and birds). Overall, future urban expansion will lead to 11–33 million hectares of natural habitat loss by 2100 under the SSP scenarios and will disproportionately cause large natural habitat fragmentation. The urban expansion within the current key biodiversity priority areas is projected to be higher (e.g., 37–44% higher in the WWF's Global 200) than the global average. Moreover, the urban land conversion will reduce local within-site species richness by 34% and species abundance by 52% per 1 km grid cell, and 7–9 species may be lost per 10 km cell. Our study suggests an urgent need to develop a sustainable urban development pathway to balance urban expansion and biodiversity conservation.
 
 
 ## Summary. An optional shortened abstract.
-# summary: NA.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: Urban, biodiversity, scenarios
 
@@ -55,7 +55,7 @@ featured: true
 # - name: Online Appendix
 #   url: pdf/supplemental_information.pdf
 
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1038/s41467-022-29324-2'
 url_code: ''
 url_dataset: ''
 url_poster: ''
