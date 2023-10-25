@@ -37,7 +37,7 @@ abstract: "Nitrogen and phosphorus pollution is of great concern to aquatic life
 ## Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:nitrogen, phosphorus,nutrient loading, sources and pathways, groundwater, septic plumes, overland flow, tile drainage, nutrient modeling
+tags: nitrogen, phosphorus,nutrient loading, sources and pathways, groundwater, septic plumes, overland flow, tile drainage, nutrient modeling
 
 # Display this page in the Featured widget?
 featured: true
