@@ -19,7 +19,7 @@ links:
   icon_pack: fab
   name: Follow
   url: ''
-url_code: https://twitter.com/Luwen_Wan/
+url_code: https://github.com/LuwenWan
 url_pdf: ""
 url_slides: ""
 url_video: ""
