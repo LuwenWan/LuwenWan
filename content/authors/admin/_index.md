@@ -82,7 +82,7 @@ highlight_name: true
 
 Hi! I am Luwen, a Postdoctoral Fellow with the [Stanford Institute for Human-Centered Artificial Intelligence](https://hai.stanford.edu/), working with Dr. Kate Maher, Professor at Stanford University in the [Department of Earth System Science](https://earthsystemscience.stanford.edu/). My research focuses on developing tools for tracking the recovery and activity of the North American beaver from a computer version and evaluating beaver as a tool for fostering sustainable waterways. 
 
-I received my Ph.D. in Earth and Environmental Science from Michigan State University, where I worked on nutrient transport modeling across the Great Lakes Basin and agricultural tile drainage mapping across the US Midwest region. 
+I received my Ph.D. in [Earth and Environmental Science](https://ees.natsci.msu.edu/)from Michigan State University, where I worked on nutrient transport modeling across the Great Lakes Basin and agricultural tile drainage mapping across the US Midwest region at [MSU Hydrogeology Lab](http://hydrogeology.msu.edu/). 
 
 If you want to collaborate on research or project, please feel free to reach out! 
 Email: luwenwan AT stanford.edu
