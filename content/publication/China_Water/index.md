@@ -79,7 +79,7 @@ featured: true
 # - name: Online Appendix
 #   url: pdf/supplemental_information.pdf
 
-url_pdf: 'https://doi.org/10.1038/s44221-023-00039-y'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
