@@ -19,7 +19,7 @@ links:
   icon_pack: fab
   name: Follow
   url: ''
-url_code: https://twitter.com/Luwen_Wan/
+url_code: https://github.com/MSUHydrogeology/SENSEflux
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -33,7 +33,7 @@ slides: ""
 ---
 
 ## Summary
-This project enhance and apply the Spatially Explicit Nutrient Source Estimate and Flux model (SENSEflux) to simulate the total annual nitrogen and phosphorus loads from the US Great Lakes Basin to the coastline, estimate the relative contributions of different sources and pathways, and identify nutrient delivery hotspots.
+The SENSEflux (Spatially Explicit Nutrient Source Estimate and Flux) model was developed by MSU Hydrogeology Lab at Michigan State University. This model uses a GIS and mass balance approach to simulate nutrient fate and transport from point and nonpoint sources across the landscape through rivers to lakes and wetlands. It includes four components: (1) nutrient applications, (2) in situ losses, (3) basin attenuation through surface and subsurface pathways, and (4) stream and lake attenuation.
 
 
 
