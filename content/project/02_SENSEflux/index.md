@@ -1,6 +1,6 @@
 ---
 title: SENSEflux
-summary: Spatially Explicit Nutrient Source Estimate and Flux model （SENSEflux） uses a GIS and mass balance approach to simulate nutrient fate and transport from point and nonpoint sources across the landscape through rivers to lakes and wetlands. It includes four components: (1) nutrient applications, (2) in situ losses, (3) basin attenuation through surface and subsurface pathways, and (4) stream and lake attenuation.
+summary: Spatially Explicit Nutrient Source Estimate and Flux model（SENSEflux）uses a GIS and mass balance approach to simulate nutrient fate and transport from point and nonpoint sources across the landscape through rivers to lakes and wetlands. It includes four components: (1) nutrient applications, (2) in situ losses, (3) basin attenuation through surface and subsurface pathways, and (4) stream and lake attenuation.
 
 tags:
 - SENSEflux
