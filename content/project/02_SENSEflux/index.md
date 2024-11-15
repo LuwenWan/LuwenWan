@@ -18,7 +18,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: ''
+  url: 'https://x.com/luwen_wan'
 url_code: https://github.com/MSUHydrogeology/SENSEflux
 url_pdf: ""
 url_slides: ""
