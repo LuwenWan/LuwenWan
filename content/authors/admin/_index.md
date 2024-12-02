@@ -14,7 +14,7 @@ organizations:
   url: https://profiles.stanford.edu/luwen-wan
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am passionate about using data science, process-based modeling, remote sensing and machine/deep  learning to explore how land use, climate change, and management impact water sustainability across diverse landscapes, and from watershed, regional to global scales. 
+bio: I am an environmental hydrologist who combines geography, hydrogeology and environmental science, and approaches like remote sensing, GIS, machine learning, high-performance computing, and big data analytics to address critical water sustainability challenges under changing landscape and climate. 
 
 # Interests to show in About widget
 interests:
