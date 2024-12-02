@@ -1,13 +1,13 @@
 ---
-title: "SENSEflux"
-date: "2024-11-30"
+title: "Beaver pond mapping using NAIP"
+date: "2024-12-02"
 ---
-summary: "Spatially Explicit Nutrient Source Estimate and Flux model (SENSEflux) uses a GIS and mass balance approach to simulate nutrient fate and transport from point and nonpoint sources across the landscape through rivers to lakes and wetlands. It includes four components: (1) nutrient applications, (2) in situ losses, (3) basin attenuation through surface and subsurface pathways, and (4) stream and lake attenuation."
+summary: This project aims to (1) delineate beaver ponds across diverse landscapes in the western United States using high-resolution (0.6 m) NAIP imagery via the Google Earth Engine (GEE) cloud computing platform, (2) create beaver pond complexes using density-based algorithms, and (3) identify important factors influencing surface water area variations in beaver wetland complexes. 
 
 tags:
-- SENSEflux
+- Beaver
 
-date: "2022-09-01T00:00:00Z"
+date: "2024-12-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -33,7 +33,6 @@ slides: ""
 ---
 
 ## Summary
-The SENSEflux (Spatially Explicit Nutrient Source Estimate and Flux) model was developed by MSU Hydrogeology Lab at Michigan State University. This model uses a GIS and mass balance approach to simulate nutrient fate and transport from point and nonpoint sources across the landscape through rivers to lakes and wetlands. It includes four components: (1) nutrient applications, (2) in situ losses, (3) basin attenuation through surface and subsurface pathways, and (4) stream and lake attenuation.
-
+This project aims to (1) delineate beaver ponds across diverse landscapes in the western United States using high-resolution (0.6 m) NAIP imagery via the Google Earth Engine (GEE) cloud computing platform, (2) create beaver pond complexes using density-based algorithms, and (3) identify important factors influencing surface water area variations in beaver wetland complexes. 
 
 
