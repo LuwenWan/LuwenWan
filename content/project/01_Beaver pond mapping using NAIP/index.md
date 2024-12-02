@@ -1,11 +1,9 @@
 ---
 title: "Beaver pond mapping using NAIP"
-date: "2024-12-02"
----
 summary: This project aims to (1) delineate beaver ponds across diverse landscapes in the western United States using high-resolution (0.6 m) NAIP imagery via the Google Earth Engine (GEE) cloud computing platform, (2) create beaver pond complexes using density-based algorithms, and (3) identify important factors influencing surface water area variations in beaver wetland complexes. 
 
 tags:
-- Beaver
+- Beavers
 
 date: "2024-12-02T00:00:00Z"
 
