@@ -29,12 +29,8 @@ content:
     tag: '*'
   - name: Beavers
     tag: Beavers
-  - name: Nutrient Pollution 
-    tag: Nutrient
   - name: Remote Sensing
-    tag: RS
-  - name: SENSEflux
-    tag: SENSEflux
+    tag: Remote Sensing
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
