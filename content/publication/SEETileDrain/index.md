@@ -5,7 +5,7 @@ title: "Mapping agricultural tile drainage in the US Midwest using explainable r
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Your Name Here
+- admin
 - Anthony D Kendall
 - Jeremy Rapp
 - David W Hyndman
