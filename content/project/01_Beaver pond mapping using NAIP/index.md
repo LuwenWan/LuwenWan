@@ -19,7 +19,7 @@ links:
   icon_pack: fab
   name: Follow
   url: 'https://x.com/luwen_wan'
-url_code: https://github.com/MSUHydrogeology/SENSEflux
+url_code: https://github.com/LuwenWan
 
 
 # Slides (optional).
