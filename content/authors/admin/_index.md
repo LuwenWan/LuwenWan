@@ -78,7 +78,7 @@ email: " "
 highlight_name: true
 ---
 
-Hi! I am Luwen, a Postdoctoral Fellow with the working with Dr. Kate Maher in the [Department of Earth System Science](https://earthsystemscience.stanford.edu/) at Stanford University. My research focuses on mapping beaver pond wetland complex and quantifying beaver-induced water storage, with fundings from the [Stanford Institute for Human-Centered Artificial Intelligence](https://hai.stanford.edu/) and [Stanford Woods Institute for the Environment](https://woods.stanford.edu/). I received my Ph.D. in [Earth and Environmental Science](https://ees.natsci.msu.edu/), Michigan State University, where I worked on nutrient transport modeling across the Great Lakes Basin and agricultural tile drainage mapping across the US Midwest region at [MSU Hydrogeology Lab](http://hydrogeology.msu.edu/). 
+Hi! I am Luwen, a Postdoctoral Fellow working with Dr. Kate Maher in the [Department of Earth System Science](https://earthsystemscience.stanford.edu/) at Stanford University. My research focuses on mapping beaver pond wetland complexes and quantifying beaver-induced water storage, with funding from the [Stanford Institute for Human-Centered Artificial Intelligence](https://hai.stanford.edu/) and the [Stanford Woods Institute for the Environment](https://woods.stanford.edu/). I received my Ph.D. in [Earth and Environmental Science](https://ees.natsci.msu.edu/) from Michigan State University, where I worked on nutrient transport modeling across the Great Lakes Basin and agricultural tile drainage mapping across the US Midwest region at [MSU Hydrogeology Lab](http://hydrogeology.msu.edu/). 
 
 If you want to collaborate on research or project, please feel free to reach out! 
 Email: luwenwan AT stanford.edu
