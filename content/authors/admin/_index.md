@@ -19,13 +19,14 @@ bio: I am an environmental hydrologist who combines geography, hydrogeology and 
 # Interests to show in About widget
 interests:
 
-- Nutrient Pollution
-- Contaminate Fate and Transport 
+- Nutrient Fate and Transport 
 - Watershed Modeling
 - Machine Learning and Artificial Intelligence 
 - Remote Sensing and Earth Observations 
 - Agricultural Practice Management 
 - Climate adaptation and mitigation
+- Nature-based Climate Solutions
+- Beavers 
 
 # Education to show in About widget
 education:
@@ -39,7 +40,7 @@ education:
   - course: MS in Geography 
     institution: South China Normal University
     year: 2014 - 2017
-  - course: BSc in Land Resource Management
+  - course: BMgmt in Land Resource Management
     institution: Hunan Normal University
     year: 2010 - 2014
 
@@ -54,6 +55,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Luwen-Wan
+- icon: ORCID
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-6414-4500
 - icon: github
   icon_pack: fab
   link: https://github.com/LuwenWan
@@ -78,7 +82,7 @@ email: " "
 highlight_name: true
 ---
 
-Hi! I am Luwen, a Postdoctoral Fellow working with Dr. Kate Maher in the [Department of Earth System Science](https://earthsystemscience.stanford.edu/) at Stanford University. My research focuses on mapping beaver pond wetland complexes and quantifying beaver-induced water storage, with funding from the [Stanford Institute for Human-Centered Artificial Intelligence](https://hai.stanford.edu/) and the [Stanford Woods Institute for the Environment](https://woods.stanford.edu/). I received my Ph.D. in [Earth and Environmental Science](https://ees.natsci.msu.edu/) from Michigan State University, where I worked on nutrient transport modeling across the Great Lakes Basin and agricultural tile drainage mapping across the US Midwest region at [MSU Hydrogeology Lab](http://hydrogeology.msu.edu/). 
+Hi! I am Luwen, a Postdoctoral Fellow working with Dr. Kate Maher in the [Department of Earth System Science](https://earthsystemscience.stanford.edu/) at Stanford University. My research focuses on mapping beaver wetland complexes and quantifying beaver-induced water storage, with funding from the [Stanford Institute for Human-Centered Artificial Intelligence](https://hai.stanford.edu/) and the [Stanford Woods Institute for the Environment](https://woods.stanford.edu/). I received my Ph.D. in [Earth and Environmental Science](https://ees.natsci.msu.edu/) from Michigan State University, where I worked on nutrient transport modeling across the Great Lakes Basin and agricultural tile drainage mapping across the US Midwest region at [MSU Hydrogeology Lab](http://hydrogeology.msu.edu/). 
 
 If you want to collaborate on research or project, please feel free to reach out! 
 Email: luwenwan AT stanford.edu
